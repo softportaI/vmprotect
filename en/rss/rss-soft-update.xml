@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoftPortal.com: new versions of the software</title>
+    <link>https://www.softportal.com/en/</link>
+    <description>List of updated programs in the last 24 hours at Softportal.com</description>
+    <language>uk</language>
+    <pubDate>Sun, 24 Dec 2023 16:22:02 +0300</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2023 16:22:02 +0300</lastBuildDate>
+    <webMaster>support@softportal.com (Admin)</webMaster>
+    <generator>SoftPortal RSS Generator</generator>
+    <image>
+      <url>https://www.softportal.com/en/img/btn/sp88_8.gif</url>
+      <link>https://www.softportal.com/en/rss/rss-soft-update.xml</link>
+      <title>SoftPortal.com: new versions of the software</title>
+    </image>
+    <atom:link href="https://www.softportal.com/en/rss/rss-soft-update.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DesktopDigitalClock 5.12</title>
+      <link>https://www.softportal.com/en/desktopdigitalclock/windows/software</link>
+      <description>A small utility that presents a simple and beautiful digital clock for the desktop. The user has access to various design themes, the ability to change at will the font, transparency of the clock and its location on the desktop</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/desktopdigitalclock/windows/software</guid>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0300</pubDate>
+      <category>Office, documents / Clock, Timer</category>
+      <enclosure url="https://www.softportal.com/en/scr/1058/desktopdigitalclock-big-1.png" length="6921" type="image/png"/>
+    </item>
+    <item>
+      <title>Pale Moon 32.5.2</title>
+      <link>https://www.softportal.com/en/pale-moon/windows/software</link>
+      <description>Pale Moon is a modified version of the popular Mozilla Firefox browser. The main difference between Pale Moon and its cross-platform prototype is that it is optimized to work only in the Windows environment, which in turn leads to a significant</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/pale-moon/windows/software</guid>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Browsers</category>
+      <enclosure url="https://www.softportal.com/en/scr/1049/pale-moon-big-1.png" length="94097" type="image/png"/>
+    </item>
+    <item>
+      <title>VSDC Free Video Editor 8.3.8</title>
+      <link>https://www.softportal.com/en/vsdc-free-video-editor/windows/software</link>
+      <description>VSDC Free Video Editor is a free non-linear video editor with rich functionality that allows you to edit video files and create clips while using a variety of video and audio effects</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/vsdc-free-video-editor/windows/software</guid>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / Video</category>
+      <enclosure url="https://www.softportal.com/en/scr/994/vsdc-free-video-editor-big-1.png" length="507058" type="image/png"/>
+    </item>
+    <item>
+      <title>Process Lasso 12.4.4.22</title>
+      <link>https://www.softportal.com/en/process-lasso/windows/software</link>
+      <description>Process Lasso - A small utility for Windows operating systems that allows you to manually or automatically manipulate the processes running on your computer for maximum performance and stability</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/process-lasso/windows/software</guid>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0300</pubDate>
+      <category>System / Task managers</category>
+      <enclosure url="https://www.softportal.com/en/scr/831/process-lasso-big-1.png" length="81486" type="image/png"/>
+    </item>
+    <item>
+      <title>Google Chrome Portable 120.0.6099.130</title>
+      <link>https://www.softportal.com/en/google-chrome-portable/windows/software</link>
+      <description>Google Chrome Portable is a portable (no installation required) version of Google Chrome browser</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/google-chrome-portable/windows/software</guid>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Browsers</category>
+      <enclosure url="https://www.softportal.com/en/scr/654/google-chrome-portable-big-1.png" length="104207" type="image/png"/>
+    </item>
+    <item>
+      <title>Opera GX 105.0.4970.63</title>
+      <link>https://www.softportal.com/en/opera-gx/windows/software</link>
+      <description>Browser, positioned as a "game", from the company Opera. The application has received the standard functionality of the branded browser plus a few additional "chips", such as control of memory and CPU usage, integration with Twitch, and much more</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/opera-gx/windows/software</guid>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Browsers</category>
+      <enclosure url="https://www.softportal.com/en/scr/556/opera-gx-big-1.png" length="105009" type="image/png"/>
+    </item>
+    <item>
+      <title>Snapchat 12.65.0.38</title>
+      <link>https://www.softportal.com/en/snapchat/android/software</link>
+      <description>Snapchat - send your friends funny messages consisting of a photo, a caption or a sticker. The feature is that you set the time after which the message will disappear. You can also use the app to communicate in more conventional ways</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/snapchat/android/software</guid>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Messengers</category>
+      <enclosure url="https://www.softportal.com/en/scr/407/snapchat-big-1.jpg" length="108074" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Google Chrome 120.0.6099.130</title>
+      <link>https://www.softportal.com/en/google-chrome-2/windows/software</link>
+      <description>Google Chrome is one of the most popular browsers that offers stable, fast and secure work on the Internet. In addition, this web browser is able to be fully customized to the individual characteristics of a particular user</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/google-chrome-2/windows/software</guid>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Browsers</category>
+      <enclosure url="https://www.softportal.com/en/scr/248/google-chrome-big-1.png" length="180986" type="image/png"/>
+    </item>
+    <item>
+      <title>Google Chrome 120.0.6099.144</title>
+      <link>https://www.softportal.com/en/google-chrome/android/software</link>
+      <description>Google Chrome – your favorite browser is equally fast and convenient on both PC and Android. It syncs all tabs on all your devices, automatically reduces or increases the image, supports voice or gesture control</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/google-chrome/android/software</guid>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0300</pubDate>
+      <category>Internet / Browsers</category>
+      <enclosure url="https://www.softportal.com/en/scr/18/google-chrome-big-1.jpg" length="110741" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Driver Magician 6.0</title>
+      <link>https://www.softportal.com/en/driver-magician/windows/software</link>
+      <description>Driver Magician is a very useful utility designed to backup, restore and update drivers. It allows you to easily create backups of all necessary drivers and quickly install them if necessary</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/driver-magician/windows/software</guid>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0300</pubDate>
+      <category>System / Backup, restore</category>
+      <enclosure url="https://www.softportal.com/en/scr/931/driver-magician-big-1.png" length="11252" type="image/png"/>
+    </item>
+    <item>
+      <title>360 Total Security 11.0.0.1068</title>
+      <link>https://www.softportal.com/en/360-total-security/windows/software</link>
+      <description>360 Total Security is a powerful antivirus solution that can protect your computer from all kinds of threats and unwanted programs and provides additional features to optimize and clean your PC for a more stable and faster operation.</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/360-total-security/windows/software</guid>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0300</pubDate>
+      <category>Security / Antivirus, spyware</category>
+      <enclosure url="https://www.softportal.com/en/scr/806/360-total-security-big-1.png" length="21927" type="image/png"/>
+    </item>
+    <item>
+      <title>hide.me VPN 3.16.3</title>
+      <link>https://www.softportal.com/en/hide-me-vpn/windows/software</link>
+      <description>hide.me VPN is a VPN client for Windows with a set of unique features that set it apart from other solutions</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/hide-me-vpn/windows/software</guid>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0300</pubDate>
+      <category>Internet / VPN</category>
+      <enclosure url="https://www.softportal.com/en/scr/617/hideme-vpn-big-1.png" length="7911" type="image/png"/>
+    </item>
+    <item>
+      <title>AOMEI Partition Assistant Standard Edition 10.2.2</title>
+      <link>https://www.softportal.com/en/aomei-partition-assistant/windows/software</link>
+      <description>Partition Assistant is a powerful application for complete management of hard disk partitions on your computer</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/aomei-partition-assistant/windows/software</guid>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0300</pubDate>
+      <category>System / SSD, HDD</category>
+      <enclosure url="https://www.softportal.com/en/scr/518/aomei-partition-assistant-big-1.jpg" length="115353" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Psiphon VPN 3.181 (2023-12-20)</title>
+      <link>https://www.softportal.com/en/psiphon-vpn/windows/software</link>
+      <description>A censorship circumvention tool designed to access the open Internet, bypassing regional blocking. Allows you to access your favorite sites, broadcasts and social networks and protect your data when connected to open Wi-Fi networks</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/psiphon-vpn/windows/software</guid>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0300</pubDate>
+      <category>Internet / VPN</category>
+      <enclosure url="https://www.softportal.com/en/scr/512/psiphon-vpn-big-1.jpg" length="86293" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>K-Lite Codec Pack Update 18.0.1 build 20231218</title>
+      <link>https://www.softportal.com/en/k-lite-codec-pack-update/windows/software</link>
+      <description>K-Lite Codec Pack Update is a package of updates for codecs, DirectShow filters and related utilities from the popular K-Lite Codec Pack, designed to play all modern audio and video files. Available for all packages in the series</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/k-lite-codec-pack-update/windows/software</guid>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / Audio</category>
+    </item>
+    <item>
+      <title>PowerToys 0.76.2</title>
+      <link>https://www.softportal.com/en/powertoys/windows/software</link>
+      <description>A set of utilities from Microsoft, the use of which allows you to customize and optimize the operation of the Windows 10 shell</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/powertoys/windows/software</guid>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0300</pubDate>
+      <category>System / Optimization</category>
+      <enclosure url="https://www.softportal.com/en/scr/941/powertoys-big-1.png" length="83572" type="image/png"/>
+    </item>
+    <item>
+      <title>XMedia Recode 3.5.8.9</title>
+      <link>https://www.softportal.com/en/xmedia-recode/windows/software</link>
+      <description>XMedia Recode is an easy-to-use program that lets you convert almost any video and audio file into one of the formats that can be played on phones, players, and other portable media. Supports all modern formats</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/xmedia-recode/windows/software</guid>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0300</pubDate>
+      <category>Office, documents / Convertors</category>
+      <enclosure url="https://www.softportal.com/en/scr/888/xmedia-recode-big-3.png" length="15928" type="image/png"/>
+    </item>
+    <item>
+      <title>Discord 1.0.9027</title>
+      <link>https://www.softportal.com/en/discord-2/windows/software</link>
+      <description>Send text messages, use voice chat, create dedicated communication channels - all this and more is available with Discord. Low system resource consumption and no serious effect on FPS makes it indispensable for the gamer</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/discord-2/windows/software</guid>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Messengers</category>
+      <enclosure url="https://www.softportal.com/en/scr/630/discord-big-1.png" length="63140" type="image/png"/>
+    </item>
+    <item>
+      <title>Display Driver Uninstaller 18.0.7.0</title>
+      <link>https://www.softportal.com/en/display-driver-uninstaller/windows/software</link>
+      <description>Display Driver Uninstaller is a free program for removing NVIDIA, Intel and AMD video card drivers from your system. Deletes registry keys, files and folders. It will be useful when standard ways of uninstalling the driver do not work</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/display-driver-uninstaller/windows/software</guid>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0300</pubDate>
+      <category>System / Drivers</category>
+      <enclosure url="https://www.softportal.com/en/scr/384/display-driver-uninstaller-big-1.png" length="24151" type="image/png"/>
+    </item>
+    <item>
+      <title>KMPlayer 4.2.3.7 / 2023.11.24.16</title>
+      <link>https://www.softportal.com/en/kmplayer/windows/software</link>
+      <description>KMPlayer is a powerful media player that supports all kinds of audio and video file formats and also includes all the filters and codecs necessary for their trouble-free playback. In addition, there is support for subtitles</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/kmplayer/windows/software</guid>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / Audio</category>
+      <enclosure url="https://www.softportal.com/en/scr/229/kmplayer-big-1.png" length="156722" type="image/png"/>
+    </item>
+  </channel>
+</rss>
